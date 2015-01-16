@@ -1,0 +1,17 @@
+{
+  "name": "viewing-server",
+  "version": "0.0.1",
+  "description": "Server for Viewing Chrome plugin.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "author": "Jason Stallings",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^1.2.1"
+  }
+}
